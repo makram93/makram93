@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![makram93's GitHub stats](https://github-readme-stats.ivercel.app/api?username=makram93&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/makram93)
 [![Kalim's GitHub stats](https://github-readme-stats.vercel.app/api?username=makram93&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/makram93)
 
 <!--

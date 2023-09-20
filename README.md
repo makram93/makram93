@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Kalim's GitHub stats](https://github-readme-stats.vercel.app/api?username=makram93&show_icons=true&theme=algolia&count_private=true&show=reviews&bg_color=00000000&include_all_commits=true)](https://github.com/makram93)
+[![Kalim's GitHub stats](https://github-readme-stats.vercel.app/api?username=makram93&show_icons=true&theme=algolia&count_private=true&show=reviews&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/makram93)
 
 <!--
 **makram93/makram93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

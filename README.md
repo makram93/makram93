@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![makram93's GitHub stats](https://github-readme-stats.ivercel.app/api?username=makram93&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/makram93)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makram93)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **makram93/makram93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![makram93's GitHub stats](https://github-readme-stats.ivercel.app/api?username=makram93&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/makram93)
+
 <!--
 **makram93/makram93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
